@@ -1,5 +1,6 @@
 import React from "react";
 import AppBar from "material-ui/AppBar";
+import "../../App.css";
 
 const NavBar = () => {
   return (
